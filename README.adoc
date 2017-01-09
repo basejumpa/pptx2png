@@ -1,0 +1,3 @@
+* http://stackoverflow.com/questions/3814304/programmatically-extracting-slides-as-images-from-a-powerpoint-presentation-pp
+* http://poi.apache.org/slideshow/xslf-cookbook.html#PPTX2PNG
+* https://svn.apache.org/repos/asf/poi/trunk/src/ooxml/java/org/apache/poi/xslf/util/PPTX2PNG.java
