@@ -2,6 +2,8 @@
 
 Preparations for my next contribution to https://github.com/basejumpa/asciidoctor-diagram
 
+See https://github.com/asciidoctor/asciidoctor-diagram/issues/139[Issue-139]
+
 == CI-Servers
 * https://travis-ci.org/basejumpa/pptx2png
 * https://ci.appveyor.com/project/basejumpa/pptx2png
