@@ -1,6 +1,14 @@
 == Purpose
 
-Preparations for my next contribution to https://github.com/basejumpa/asciidoctor-diagram
+Demonstrate the calls how to 
+
+* generate a png, svg, gif or jpg file 
+* from a pptx or ppt file
+
+using Apache POI. No installation of Microsoft Powerpoint necessary :-)
+
+
+This serves as a preparation for my next contribution to https://github.com/basejumpa/asciidoctor-diagram
 
 See https://github.com/asciidoctor/asciidoctor-diagram/issues/139[Issue-139]
 
