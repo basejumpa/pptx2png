@@ -1,0 +1,11 @@
+install:
+  - curl -s -O http://mirror.dkd.de/apache/poi/release/bin/poi-bin-3.15-20160924.zip
+  - 7z x poi-bin-3.15-20160924.zip
+
+build_script:
+  - umlet -action=convert -format=png -filename=umlet.uxf -output=umlet.png
+  - if exist somePowerpoint.pptx echo SUCCESS
+  - dir
+
+artifacts:
+  - path: *.png
