@@ -2,7 +2,7 @@
 
 Demonstrate the calls how to 
 
-* generate a png, svg, gif or jpg file 
+* generate a png, gif or jpg file 
 * from a pptx or ppt file
 
 of all or one selected slides using Apache POI. 
