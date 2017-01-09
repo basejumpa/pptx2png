@@ -5,7 +5,7 @@ Demonstrate the calls how to
 * generate a png, svg, gif or jpg file 
 * from a pptx or ppt file
 
-using Apache POI. 
+of all or one selected slides using Apache POI. 
 
 NOTE: No installation of Microsoft Powerpoint necessary. Isn't this great?!
 
