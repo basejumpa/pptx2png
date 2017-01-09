@@ -10,9 +10,7 @@ using Apache POI.
 NOTE: No installation of Microsoft Powerpoint necessary. Isn't this great?!
 
 
-This serves as a preparation for my next contribution to https://github.com/basejumpa/asciidoctor-diagram
-
-See https://github.com/asciidoctor/asciidoctor-diagram/issues/139[Issue-139]
+This serves as a preparation for my next contribution to https://github.com/basejumpa/asciidoctor-diagram, see https://github.com/asciidoctor/asciidoctor-diagram/issues/139[Issue-139]
 
 == CI-Servers
 * https://travis-ci.org/basejumpa/pptx2png
