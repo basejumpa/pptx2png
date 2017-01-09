@@ -8,4 +8,4 @@ build_script:
   - dir
 
 artifacts:
-  - path: somePowerpoint.pptx
+  - path: somePowerpoint-0001.png
