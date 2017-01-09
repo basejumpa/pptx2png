@@ -13,7 +13,7 @@ NOTE: No installation of Microsoft Powerpoint necessary. Isn't this great?!
 This serves as a preparation for my next contribution to https://github.com/basejumpa/asciidoctor-diagram, see https://github.com/asciidoctor/asciidoctor-diagram/issues/139[issue-139]
 
 == Jobs on CI-Servers
-Following jobs show the calls in action:
+Following jobs show http://poi.apache.org/slideshow/xslf-cookbook.html#PPTX2PNG[PPTX2PNG] in action:
 
 * https://travis-ci.org/basejumpa/pptx2png
 * https://ci.appveyor.com/project/basejumpa/pptx2png
