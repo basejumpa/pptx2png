@@ -2,6 +2,9 @@
 
 Preparations for my next contribution to https://github.com/basejumpa/asciidoctor-diagram
 
+== CI-Servers
+* https://travis-ci.org/basejumpa/pptx2png
+* https://ci.appveyor.com/project/basejumpa/pptx2png
 
 == Ressources
 * http://stackoverflow.com/questions/3814304/programmatically-extracting-slides-as-images-from-a-powerpoint-presentation-pp
