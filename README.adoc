@@ -12,7 +12,9 @@ NOTE: No installation of Microsoft Powerpoint necessary. Isn't this great?!
 
 This serves as a preparation for my next contribution to https://github.com/basejumpa/asciidoctor-diagram, see https://github.com/asciidoctor/asciidoctor-diagram/issues/139[issue-139]
 
-== CI-Servers
+== Jobs on CI-Servers
+Following jobs show the calls in action:
+
 * https://travis-ci.org/basejumpa/pptx2png
 * https://ci.appveyor.com/project/basejumpa/pptx2png
 
